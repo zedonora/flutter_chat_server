@@ -18,7 +18,7 @@
 		"dotenv": "^8.2.0",
 		"fcm-node": "^1.5.2",
 		"graphql": "^14.6.0",
-		"graphql-import": "^1.0.0-beta.2",
+		"graphql-import": "^1.0.2",
 		"jsonwebtoken": "^8.5.1",
 		"merge-graphql-schemas": "^1.7.6",
 		"path": "^0.12.7",
